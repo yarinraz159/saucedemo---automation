@@ -48,6 +48,6 @@ This test class performs a scenario where the user logs into the application.
 
 This test class performs a scenario where the user logs in, adds products to the cart, and removes a specific product from the cart.
 
-**Note:** The framework assumes that the saucedemo web application is accessible at the URL "https://www.saucedemo.com/". Make sure the application is running and accessible before running the tests.
+**> Note:** The framework assumes that the saucedemo web application is accessible at the URL "https://www.saucedemo.com/". Make sure the application is running and accessible before running the tests.
 Make sure to update the ChromeDriver path according to your system configuration.
 
