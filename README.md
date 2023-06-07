@@ -1,5 +1,5 @@
 # saucedemo-Test-automation
-# Test Automation Code
+# Test Automation Framework
 
 This repository contains test automation code for a web application using Selenium WebDriver and Java.
 
