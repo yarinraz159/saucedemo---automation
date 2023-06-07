@@ -20,8 +20,8 @@ This repository contains test automation code for a web application using Seleni
 The project structure is organized as follows:
 
 - `src/`: Contains the source code files.
-  - `pageObject/`: Contains the page object classes.
-  - `tests/`: Contains the test classes.
+- `pageObject/`: Contains the page object classes.
+- `tests/`: Contains the test classes.
 - `README.md`: Provides an overview of the project and instructions.
 
 ## Running the Tests
